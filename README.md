@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yawneazy
 - 👀 I’m interested in music, tech, and sports.
-- 🌱 I’m currently studing Computer science
-- 💞️ I’m looking to collaborate on coding and computer science YouTube videos
+- 🌱 I’m currently studying Computer science
+- 💞️ I’m looking to collaborate on coding and Computer Science-related YouTube videos
 - 📫 How to reach me ... @yawneazy pretty much everywhere
 
 <!---
