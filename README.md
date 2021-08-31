@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yawneazy
-- 👀 I’m interested in music, fashion and sports(:
+- 👀 I’m interested in music, tech, and sports.
 - 🌱 I’m currently studing Computer science
 - 💞️ I’m looking to collaborate on coding and computer science YouTube videos
 - 📫 How to reach me ... @yawneazy pretty much everywhere
