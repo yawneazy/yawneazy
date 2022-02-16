@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, tech, and sports.
 - 🌱 I’m currently studying Computer science
 - 💞️ I’m looking to collaborate on coding and Computer Science-related YouTube videos
-- 📫 How to reach me ... @yawneazy pretty much everywhere
+- 📫 How to reach me ... alyssa.kyanez1@gmail.com
 
 <!---
 yawneazy/yawneazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
